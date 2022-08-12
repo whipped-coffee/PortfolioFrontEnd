@@ -1,0 +1,60 @@
+[33mcommit 451909202eece9d9da8c3840f052504ff0e492b9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v.1.1.1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/desarrollo[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6b7cda9 def4e04
+Author: Whipped-Coffee <leonelbrizuela159357@gmail.com>
+Date:   Mon Aug 1 22:03:23 2022 -0300
+
+    Merge branch 'desarrollo'
+
+[33mcommit def4e04c4f9b83bea233a329dc1e0ca8cfdd7ef9[m[33m ([m[1;32mDesarrollo[m[33m)[m
+Author: Whipped-Coffee <leonelbrizuela159357@gmail.com>
+Date:   Mon Aug 1 22:02:33 2022 -0300
+
+    commit final
+
+[33mcommit 6b7cda93430e14ef80021352ac1405855e17e176[m
+Merge: f5fb960 0debd77
+Author: whipped-coffee <110354784+whipped-coffee@users.noreply.github.com>
+Date:   Mon Aug 1 21:56:41 2022 -0300
+
+    Merge pull request #2 from whipped-coffee/Desarrollo
+    
+    Create README.md
+
+[33mcommit 0debd779442c8db774de91b66611a192dd53b739[m
+Author: whipped-coffee <110354784+whipped-coffee@users.noreply.github.com>
+Date:   Mon Aug 1 21:55:38 2022 -0300
+
+    Create README.md
+
+[33mcommit f5fb9606ca0d6152496d4bff09f274fa7c626333[m
+Merge: 4503b3c 826cff6
+Author: whipped-coffee <110354784+whipped-coffee@users.noreply.github.com>
+Date:   Mon Aug 1 21:53:39 2022 -0300
+
+    Merge pull request #1 from whipped-coffee/Desarrollo
+    
+    Update index.html
+
+[33mcommit 826cff64c0ec0f2c24ffb70be9174652960b8289[m
+Author: whipped-coffee <110354784+whipped-coffee@users.noreply.github.com>
+Date:   Mon Aug 1 21:51:36 2022 -0300
+
+    Update index.html
+
+[33mcommit 4503b3cc5d8f0e79b81a9e6bd806e30e9837f8db[m
+Author: Whipped-Coffee <leonelbrizuela159357@gmail.com>
+Date:   Mon Aug 1 21:39:12 2022 -0300
+
+    Commit login html
+
+[33mcommit 41c0e32c0ad6c84d5ad70017caec5b1c6041782f[m
+Author: Whipped-Coffee <leonelbrizuela159357@gmail.com>
+Date:   Mon Aug 1 21:31:24 2022 -0300
+
+    Mi segundo commit
+
+[33mcommit 5a28ed9f5136c59f4c49ce4ae8ee25d7a2d158cb[m
+Author: Whipped-Coffee <leonelbrizuela159357@gmail.com>
+Date:   Mon Aug 1 21:30:39 2022 -0300
+
+    Mi primer commit
